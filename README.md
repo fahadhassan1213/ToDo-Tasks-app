@@ -93,6 +93,8 @@ __Search/Filter Items__
 Deployment
 ========================
 When you have done with the setup you should host your site online
+
 You can use [NETLIFY](https://www.netlify.com/) for deployment of your
-for hosting information about NETLIFY please read [hosting on Netlify](https://create-react-app.dev/docs/deployment/#netlify)
+
+for more information please read [hosting on Netlify](https://create-react-app.dev/docs/deployment/#netlify)
 
