@@ -27,7 +27,7 @@ Table of Content
 -   [Getting started](#)
 -   [How to get files](#)
 -   [Change and Customization](#)
--   [How this app's code help you]
+-   [How this app's code help you](#)
 -   [Deployment](#)
 
 
