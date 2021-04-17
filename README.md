@@ -1,6 +1,6 @@
 # ToDo-Tasks-app
 
-## Help you to add your daily task to make you focus on your daily routines 
+## Help you to make a list of  your daily task to make you focus on your daily routines 
 -------------------------------------------------
 __First Section (adding,delete and search of Tasks)__
 
