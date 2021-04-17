@@ -2,11 +2,11 @@
 
 ## Help you to make a list of  your daily task to make you focus on your daily routines 
 -------------------------------------------------
-__First Section (adding,delete and search of Tasks)__
+__First Section (adding,delete and search of tasks)__
 
 ![intro page](images/add-remove-section.PNG)
 
-__Second Section (view of your complete Tasks list)__
+__Second Section (view of your completed tasks list)__
 
 ![projects page](images/completedTask-section.PNG)
 
