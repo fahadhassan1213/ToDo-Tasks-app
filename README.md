@@ -2,14 +2,13 @@
 
 ## Help you to make a list of  your daily task to make you focus on your daily routines 
 -------------------------------------------------
+
+![](gif/todo%20app.gif)
+
 __First Section (adding,delete and search of tasks)__
 
-![intro page](images/add-remove-section.PNG)
 
 __Second Section (view of your completed tasks list)__
-
-![projects page](images/completedTask-section.PNG)
-
 
 
 #### Feel free to change or customize as much as you want
@@ -80,7 +79,7 @@ Using the code you can be able to creat a list in which you can allow the user t
 You can also allow the user to recover the deleted items from the list
 
 #### The following picture is divided into sections of code
-Your task is to check the working of code and apply this code in you project and make your code more awesome
+You have to just check the working of code and apply this code in you project and make your projects more awesome
 
 __Adding the Items to List__
 ![](images/addingitems.PNG)
