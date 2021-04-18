@@ -6,6 +6,7 @@
 ![](gif/todo%20app.gif)
 
 _First Section (adding,delete and search of tasks)_
+
 _Second Section (view of your completed tasks list)_
 
 
@@ -33,8 +34,8 @@ Sections
 
 * * * * *
 
-1.  ADD,REMOVE,SEARCH   
-2.  Completed Tasks
+1.  add,remove,search   
+2.  completed Tasks
 
 Getting Started
 ===============
